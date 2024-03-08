@@ -23,3 +23,7 @@ Run the script with the following command:
 ```bash
 python your_script.py --input path_to_input_video --output path_to_output_video
 ```
+
+## Sample Output
+
+![file](output.gif)
